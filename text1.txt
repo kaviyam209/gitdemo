@@ -1,1 +1,2 @@
 Created my first text1.txt file
+Learned about clone and push and pull
